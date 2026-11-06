@@ -1,0 +1,6 @@
+{
+  "name": "RA2: Django + React con Autenticación JWT y APIs",
+  "description": "Aplicación completa Full Stack para RA2: Frontend en React con Vite, Router v6, AuthContext, JWT, API de terceros y Web Service SOAP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
